@@ -3,9 +3,6 @@ module k88s
 go 1.12
 
 require (
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
-	github.com/docker/spdystream v0.0.0-20160310174837-449fdfce4d96 // indirect
-	github.com/ghodss/yaml v0.0.0-20150909031657-73d445a93680 // indirect
 	github.com/gkarthiks/k8s-discovery v0.21.0
 	github.com/google/gofuzz v1.2.0 // indirect
 	github.com/googleapis/gnostic v0.5.5 // indirect
